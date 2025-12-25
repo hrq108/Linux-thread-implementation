@@ -19,12 +19,6 @@ The program acts as a thread manager, allowing the user to create and execute di
 - Concurrent execution within a single process
 - Use of sleep() to visualize thread scheduling
 
-## File Structure
-Linux-thread-implementation/
-│
-├── threads.c
-├── README.md
-
 ## Technologies Used
 - C programming language
 - POSIX Threads (pthread)
